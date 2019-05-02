@@ -1,2 +1,2 @@
-# casino
-a casino mockup
+# Casino
+Ein kleines Casino Spiel. Projektarbeit für schule.
