@@ -1,2 +1,2 @@
-# casino
-a casino mockup
+# Casino
+Schulprojekt: Casino mit mehreren Minispielen
